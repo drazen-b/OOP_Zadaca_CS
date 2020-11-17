@@ -62,7 +62,7 @@ namespace Class_Library
 
         public static bool operator <(Episode ep1, Episode ep2)
         {
-            return (ep1.AverageScore) < (ep2.AverageScore);
+            return (ep1.GetAverageScore()) < (ep2.GetAverageScore());
         }
 
         public static bool operator >(Episode ep1, Episode ep2)
