@@ -15,17 +15,21 @@ namespace Class_Library
 
         public static void Sort(Episode[] episodes)
         {
-            for(int i = 0; i < episodes.Length-2; i++)
+            int min;
+            for (int i = 0; i < episodes.Length - 1; i++)
             {
-                for(int j = 0; j<episodes.Length-2;j++)
+                min = i;
+
+                for (int j = i + 1; j < episodes.Length; j++)
                 {
-                    if(episodes[i] < episodes[i+1])
+                    if (episodes[j] > episodes[min])
                     {
-                        Episode temp = episodes[i+1];
-                        episodes[i+1] = episodes[i];
-                        episodes[i] = temp; 
+                        min = j;
                     }
                 }
+                Episode temp = episodes[i];
+                episodes[i] = episodes[min];
+                episodes[min] = temp;
             }
         }
 

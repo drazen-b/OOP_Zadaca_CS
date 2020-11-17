@@ -16,5 +16,11 @@ namespace Class_Library
             this.EpDuration = EpDuration;
             this.EpName = EpName;
         }
+
+        public override string ToString()
+        {
+            return $"{this.EpNumber},{this.EpDuration},{this.EpName}";
+        }
+
     }
 }

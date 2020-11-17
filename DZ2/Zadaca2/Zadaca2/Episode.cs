@@ -57,12 +57,12 @@ namespace Class_Library
 
         public override string ToString()
         {
-            return $"{ViewerCount},{AverageScore},{MaxScore},{this.Description.EpNumber},{this.Description.EpDuration},{this.Description.EpName}";
+            return $"{ViewerCount},{AverageScore},{MaxScore},{this.Description.ToString()}";
         }
 
         public static bool operator <(Episode ep1, Episode ep2)
         {
-            return (ep1.GetAverageScore()) < (ep2.GetAverageScore());
+            return (ep1.AverageScore) < (ep2.AverageScore);
         }
 
         public static bool operator >(Episode ep1, Episode ep2)
