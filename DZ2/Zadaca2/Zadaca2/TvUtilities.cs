@@ -39,6 +39,28 @@ namespace Class_Library
             return new Episode(int.Parse(name.Split(',')[0]), double.Parse(name.Split(',')[1]), double.Parse(name.Split(',')[2]), desc);
         }
 
+        public static Episode[] LoadEpisodesFromFile(string FileName)
+        {
+
+            int LineCount = File.ReadAllLines(FileName).Length;
+
+            Episode[] LoadedEpisodes = new Episode[LineCount];
+
+            using (StreamReader sr = new StreamReader(FileName))
+            {
+                int i = 0;
+                string line;
+
+                while ((line = sr.ReadLine()) != null)
+                {
+                    LoadedEpisodes[i] = Parse(line);
+                    i++;
+                }
+            }
+
+            return LoadedEpisodes;
+        }
+
     }
 }
 

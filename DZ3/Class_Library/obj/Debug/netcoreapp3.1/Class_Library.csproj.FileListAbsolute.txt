@@ -1,0 +1,12 @@
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\bin\Debug\netcoreapp3.1\Class_Library.exe
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\bin\Debug\netcoreapp3.1\Class_Library.deps.json
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\bin\Debug\netcoreapp3.1\Class_Library.runtimeconfig.json
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\bin\Debug\netcoreapp3.1\Class_Library.runtimeconfig.dev.json
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\bin\Debug\netcoreapp3.1\Class_Library.dll
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\bin\Debug\netcoreapp3.1\Class_Library.pdb
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.AssemblyInfoInputs.cache
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.AssemblyInfo.cs
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.csproj.CoreCompileInputs.cache
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.dll
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.pdb
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.genruntimeconfig.cache
