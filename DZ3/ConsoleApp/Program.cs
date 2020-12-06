@@ -9,10 +9,6 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             DZ3();
-
-            Console.WriteLine("////////");
-
-            DZ2();
         }
 
 
