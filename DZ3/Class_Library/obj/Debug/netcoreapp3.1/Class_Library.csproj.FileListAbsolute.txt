@@ -10,3 +10,4 @@ C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcor
 C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.dll
 C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.pdb
 C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.genruntimeconfig.cache
+C:\Users\Drazen\Desktop\oop_ferit_zadace-main\DZ3\Class_Library\obj\Debug\netcoreapp3.1\Class_Library.csprojAssemblyReference.cache
